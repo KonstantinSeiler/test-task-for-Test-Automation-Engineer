@@ -20,6 +20,16 @@
 
 - Использование фреймворка Cypress.
 - Использование языка Gherkin.
+- Использование commands в файле authGitflic.ts
+- Использование методов из dom
+
+- Для вас создан пример первого теста в директории: cypress\e2e\authGitflic.feature
+  - Написание сценариев продолжить в файле : authGitflic.feature
+  - Использование commands продолжить в файле: authGitflic.ts
+  - Продолжить создание dom в директории: cypress\support\dom\auth.ts
+  - Продолжить создание commands в директории: cypress\support\commands\authForm.ts
+  - Продолжить создание fixtures в директории: cypress\fixtures\auth.ts
+
 - Ожидается создание автоматизированных сценариев, позволяющих максимально покрыть тестируемые аспекты.
 
 ## Оформление
